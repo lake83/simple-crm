@@ -16,7 +16,7 @@
                 <div class="card-header">
                     <h3 class="card-title">Employees list</h3>
                 </div>
-                <div class="card-body">
+                <div class="card-body table-responsive">
                     <table id="employees" class="table table-bordered table-hover table-striped table-sm" style="width:100%">
                         <thead>
                         <tr>
